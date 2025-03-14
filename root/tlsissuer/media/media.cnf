@@ -1,0 +1,23 @@
+[ req ]
+default_bits       = 2048
+distinguished_name = req_distinguished_name
+req_extensions     = req_ext
+prompt             = no
+
+[ req_distinguished_name ]
+C  = HU
+ST = Budapest
+L  = Budapest
+O  = NETLOCK Kft.
+OU = IT
+CN = media.hu
+
+[ req_ext ]
+subjectAltName = @alt_names
+
+[ alt_names ]
+DNS.1 = media.hu
+DNS.2 = alfa.media.hu
+DNS.3 = beta.media.hu
+DNS.4 = delta.media.hu
+
