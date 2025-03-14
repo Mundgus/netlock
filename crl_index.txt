@@ -1,0 +1,1 @@
+R	270314165734Z	250314173207Z,cessationOfOperation	422DB3B0B135F313184BE3823323239705511B17	unknown	/C=HU/ST=Budapest/L=Budapest/O=NETLOCK Kft./OU=IT/CN=www.netlock.hu/emailAddress=info@netlock.hu
